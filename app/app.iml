@@ -188,5 +188,15 @@
     <orderEntry type="library" exported="" name="android-android-25" level="project" />
     <orderEntry type="module" module-name="jokeviewer" exported="" />
     <orderEntry type="module" module-name="jokebackend" exported="" />
+    <orderEntry type="module" module-name="jokeviewer" exported="" />
+    <orderEntry type="module" module-name="jokebackend" exported="" />
+    <orderEntry type="module" module-name="jokeviewer" exported="" />
+    <orderEntry type="module" module-name="jokebackend" exported="" />
+    <orderEntry type="module" module-name="jokeviewer" exported="" />
+    <orderEntry type="module" module-name="jokebackend" exported="" />
+    <orderEntry type="module" module-name="jokeviewer" exported="" />
+    <orderEntry type="module" module-name="jokebackend" exported="" />
+    <orderEntry type="module" module-name="jokeviewer" exported="" />
+    <orderEntry type="module" module-name="jokebackend" exported="" />
   </component>
 </module>

@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.idea/workspace.xml
+*.bin
+.gradle/3.3/taskArtifacts/taskArtifacts.lock
+*.lock
+.idea/workspace.xml
+*.iml
+*.rawproto
+*.lock

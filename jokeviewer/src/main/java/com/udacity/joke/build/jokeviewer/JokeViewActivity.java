@@ -16,6 +16,7 @@ public class JokeViewActivity extends AppCompatActivity {
         if (jokeView != null) {
             jokeView.setText(joke);
         }
+
     }
 
 
