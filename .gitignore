@@ -53,3 +53,8 @@ Temporary Items
 *.iml
 *.rawproto
 *.lock
+*.bin
+*.bin
+.gradle/3.3/taskArtifacts/taskArtifacts.bin
+*.lock
+.idea/workspace.xml

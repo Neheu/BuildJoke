@@ -55,7 +55,6 @@ public class JokeFragment extends Fragment implements GetJokeAsyncTask.CalllBack
         // get test ads on a physical device. e.g.
         // "Use AdRequest.Builder.addTestDevice("ABCDEF012345") to get test ads on this device."
         AdRequest adRequest = new AdRequest.Builder()
-                .addTestDevice(AdRequest.DEVICE_ID_EMULATOR)
 //                // Check the LogCat to get your test device ID
                 .addTestDevice("22C3F2C2255B69CCC7FB0341D7B47D3F")
                 .build();
