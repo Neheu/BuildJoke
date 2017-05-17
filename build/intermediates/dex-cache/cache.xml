@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\bc3e2717f6be0634c345a82bc408432d8f2dac9f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\classes_24830ff85cb9040b0e94e96cc6dd180bed854978.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\7854b44784976b56db0cd06ade99556340e4070c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\androidTest\paid\debug\classes_3844a29cb0d60d82c30e51ddd4a9e8aaec3005e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.1\2e66da15851f9f5b5079228f856c2f090ba98c38\gson-2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e66da15851f9f5b5079228f856c2f090ba98c38">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\gson-2.1_ee7e497c148373f5faa9470e19fbae7d19429617.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\6631eb4e4f7e810c7fec2e89e4a71b37a46f900d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\classes_a0a83f3bc7f7538be1878a1d9e4465df1c4740cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\65c538051de1bcd680b9071fd516f4c53a050c43\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\classes_a5836dfabb53ae19757105247a683d8f1a1171a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\9cedf85b7dd0befd012b67d33561b59d2536f58c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d20672631818754557255886d3feb43e7fe75a66">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\classes_23214cc98ed9083226bac87fc60426fc59c66168.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nanodegree\Projects Github\BuildJoke\jokebackend\build\libs\jokebackend-android-endpoints.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6d13594ee98571d0deba3d1b4f77bf8e4a59de3">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\jokebackend-android-endpoints_bc878014a083e0a7fc0bd708218618df39ea1939.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\56798db8e3071655ace646c6f305dd0ede689330\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\classes_e4eb30e7cac030427c1dba7b5755e16bad5c94b1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\incremental-classes\free\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ae333db274e0157d14ae7f35789e2843bf92be6">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\transforms\dex\free\debug\folders\1000\10000\instant-run-bootstrap_67533eaf31e10c23a0cbdb24517de49194f366bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\9d1a0ded4eb47710b97c723747301ae7fdf27ea1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\classes_9d22a4e91495e5361fadefb044c4f983e726e15d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\jsr305-2.0.1_4cb971c204fae19205cf1bf098ec27c5349818f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\androidTest\paid\debug\javawriter-2.1.1_0945596d288e2451a67c57550162e540316e0665.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\guava-jdk5-13.0_a227468ac13d179b18f6f7cdc3a0faa4b93c6b16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0\constraint-layout-solver-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90493f2ea15ff3f57416368123e5d4d180e0c6fd">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\constraint-layout-solver-1.0.0_a2cf02aaf6e15f4f15711261eb762587bfd5baa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\androidTest\paid\debug\javax.annotation-api-1.2_9a4473964e257c9e27868e75c928577fbaf2c550.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\374a586a8e43e85dab0b7cb627d66b4666cb31fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\classes_1e59e5efbf844caa727f3d84fe1af987070252c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\androidTest\paid\debug\hamcrest-core-1.3_772ecad9b235f5cffd185af11d69cccaf6aaf0e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\5f2485231a297123ea8d82ec391d867ba8292340\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\androidTest\paid\debug\classes_0098b1fa479bac470e40966b6c95c1de96b679b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-gson\1.17.0-rc\3696033c14cc5ce68fe3ac818bade2707df9c2cd\google-http-client-gson-1.17.0-rc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3696033c14cc5ce68fe3ac818bade2707df9c2cd">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\google-http-client-gson-1.17.0-rc_e162f1e6f5663649192b10ceae1cef5727b1735a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\fc8977de688808b586d48a2628df00c142439fb0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\classes_49004f65ea0b1e825150a6cc96596beba37d97cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\70aabc83c758ce71957b71899996791d9c181c7b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\classes_346035a79a98e10877e5874f07e6cf21382d34a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\androidTest\paid\debug\javax.inject-1_f7ed05067113419c2515f3cf120f753de1aeaca3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.20.0\1d086ac5756475ddf451af2e2df6e288d18608ca\google-oauth-client-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\google-oauth-client-1.20.0_b15968e01e622ce6e6435bf04936953bbdf3c5b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.20.0\313dc99a7963523871495897ca11aa8472b3c6fd\google-http-client-android-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\google-http-client-android-1.20.0_7909b5689315abacabf7cce965666f117249c413.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.20.0\93d82db2bca534960253f43424b2ba9d7638b4d2\google-http-client-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\google-http-client-1.20.0_393fb8013289e2d2fad1d811b0a785d4e8a8885b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\jackson-core-2.1.3_dc93fff0f9ebb582069359e2304f2eec12b67f3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\support-annotations-25.3.0_4f614860d9f0e55388571ced02ae1091c295c760.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\androidTest\paid\debug\junit-4.12_b7f5230bd33e98a2423b159ad474d4c22e6cd84e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\androidTest\paid\debug\hamcrest-integration-1.3_8297ed1e00e9692b468aa41aa538c9a63d0c4cc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.20.0\5673179575c32b69a474334255c3044adf18d40\google-api-client-android-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\google-api-client-android-1.20.0_b009d1dad52a54c3134f2888ac52ddd17fc56c45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\dbdc0e32b0e5149e45eb53fa1ce49a5683a30227\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\classes_a9885daae4052b03cf584b2902826625474c772a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\6fba47b2c22ac1930cdf43c9cf222e10d1991636\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\classes_2ca8634ee0a53d41b4da0f39c3e5f704da99efde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\4ff8777c2af4d5ff3de6464c1ddeb0e33202fe3f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\classes_0ede7891848bfb6c5ce5cb837e4e7304377d6392.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\884012f795c02462c3f56a164f0a77b1ffaac72f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\classes_fe6a48956c4ef0e9f8ce0d46aad781507c538d37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\1f290e97f643558e49275bb8b28179edf975a3a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\androidTest\paid\debug\classes_bab0da0f166c66a54f54ef3e31b795238c0a57da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nanodegree\Projects Github\BuildJoke\jokeviewer\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dfb51bf53d3a57498f57fef4c000ed88a7a5fa69">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\classes_078f5314e46aaefb8e004e478305a6c7ae865f6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.20.0\d3e66209ae9e749b2d6833761e7885f60f285564\google-api-client-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\google-api-client-1.20.0_ca2866d75a2314a2d92fdb90d7b543cd2054934f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\3d792cda31a3def55f598e77e3a8c48b9d63e429\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\androidTest\paid\debug\classes_bdc22db0baa1cd75cd4531094e925d68de5893e6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\incremental-runtime-classes\free\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\transforms\dex\free\debug\folders\1000\10000\instant-run_907026af2cf34fc410bfba4f5e9c820e264ef857\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\cb1d9bba84768afb2b049d2592d979e8b40dfcac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\classes_76a9876ea138fc4a44f80f07e325a9661bbc4e33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\fed82ce6fe3f118b4e532e18ad49459e5cec0beb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\classes_1ec0019c57a99f2a7f952cab0bc2f47eef75ccf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.20.0\2408070b2abec043624d35b35e30450f1b663858\google-http-client-jackson2-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\google-http-client-jackson2-1.20.0_15fa92a5175ba73a77152969b5d317c64529c9ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\e930d805aacf027e8944daf2b3ecf8da6e3f8b37\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\classes_693de71aa23225f3a6f680b2cfc3481a053d92f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\51ae2596b3915dc063598b6e6b989bceaded5231\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\classes_98fd42e62ab83a49461761c0fea67546e00567e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\76c037302360422ecde8dbeaa491d7a27629783e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\classes_f4ecce8e70a58d34fd7645cd2c43513807463164.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\f4f373ee96e1d961720a82acef7bb8eed2ec4fb1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\classes_26ac2a5f546dee4c194f1de414bb100783060343.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\ed283b41d7f213302ea1d0605773a6513874940b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\androidTest\paid\debug\classes_dd71cfd7e68cacc80c9d69b86a38ad656bc673fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\3de2b3a2db27809f8a4a1e496139c549b3cd87a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\paid\debug\classes_d00620fe191ec482d71a7f2ccc2ef10732460451.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="D:\Nanodegree\Projects Github\BuildJoke\app\build\intermediates\pre-dexed\androidTest\paid\debug\hamcrest-library-1.3_5a684e839f0d977d1522c5dea8bd348707f1446c.jar" />
+    </item>
+
+</items>
